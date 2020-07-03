@@ -1,0 +1,136 @@
+.text-box-cust{
+    padding: 20px;
+        width: 30%;    
+    }
+    .card-cust{
+        margin: 20px;
+    
+    }
+    .jumbotron{
+        margin-bottom: 0px !important;
+    }
+    
+    .jumbotron-cust{
+        margin-bottom: unset;
+           height: 580px;
+    
+    }
+    .card-cust p {
+        font-weight: lighter;
+        
+    }
+    .dv-ms-su-mlp-1 {
+    
+        background-color: #000;
+            background-image: linear-gradient(to right, #000 40%, transparent 58%), url('https://m.media-amazon.com/images/G/31/AmazonVideo/2019/1102620_MLP_1440x675_apv189_V3._SY1200_FMJPG_.jpg');
+        background-position: right top;
+    }
+    .dv-ms-su-mlp-1 .dv-image {
+        background-image: none;
+    }
+        @media all and (max-width: 1024px)  and (orientation: portrait) {
+            .dv-ms-su-mlp-1 {
+                background-color: #000;
+                background-image: none;
+            }
+            .dv-ms-su-mlp-1 .dv-image {
+                    background-image: linear-gradient(to top, #000 0%, transparent 20%), url('https://m.media-amazon.com/images/G/31/AmazonVideo/2019/1102620_MLP_1440x675_apv189_V3._CR575,0,865,675_AC_.jpg');
+            }
+        }
+    
+    .dv-ms-su-mlp-2 {
+        background-color: #000;
+            background-image: linear-gradient(to right, #000 40%, transparent 58%), url('https://m.media-amazon.com/images/G/31/AmazonVideo/2020/X-site/SingleTitle/GulaboSitabo/Launch/MLP_1440x675_2._SY1200_FMJPG_.jpg');
+        background-position: right top;
+    }
+    .dv-ms-su-mlp-2 .dv-image {
+        background-image: none;
+    }
+        @media all and (max-width: 1024px)  and (orientation: portrait) {
+            .dv-ms-su-mlp-2 {
+                background-color: #000;
+                background-image: none;
+            }
+            .dv-ms-su-mlp-2 .dv-image {
+                    background-image: linear-gradient(to top, #000 0%, transparent 20%), url('https://m.media-amazon.com/images/G/31/AmazonVideo/2020/X-site/SingleTitle/GulaboSitabo/Launch/MLP_1440x675_2._CR575,0,865,675_AC_.jpg');
+            }
+        }
+        
+        .dv-ms-su-mlp-3 {
+            background-color: #000;
+                background-image: linear-gradient(to left, #000 40%, transparent 58%), url('https://m.media-amazon.com/images/G/01/digital/video/Magellan_MLP/IN-Living-Room-V2._CB524587855_SY1200_FMJPG_.jpg');
+            background-position: left top;
+        }
+        .dv-ms-su-mlp-3 .dv-image {
+            background-image: none;
+        }
+            @media all and (max-width: 1024px)  and (orientation: portrait) {
+                .dv-ms-su-mlp-3 {
+                    background-color: #000;
+                    background-image: none;
+                }
+                .dv-ms-su-mlp-3 .dv-image {
+                        background-image: linear-gradient(to top, #000 0%, transparent 20%), url('https://m.media-amazon.com/images/G/01/digital/video/Magellan_MLP/IN-Living-Room-V2._CB524587855_._CR0,0,865,675_AC_.jpg');
+                }
+            }
+           
+            .dv-ms-su-mlp-5 {
+                background-color: #000;
+                    background-image: linear-gradient(to right, #000 40%, transparent 58%), url('https://m.media-amazon.com/images/G/01/digital/video/Magellan_MLP/PRIME_multi-benefit_MAGNET_2X._CB1519820207_SY1200_FMJPG_.jpg');
+                background-position: right top;
+            }
+            .dv-ms-su-mlp-5 .dv-image {
+                background-image: none;
+            }
+                @media all and (max-width: 1024px)  and (orientation: portrait) {
+                    .dv-ms-su-mlp-5 {
+                        background-color: #000;
+                        background-image: none;
+                    }
+                    .dv-ms-su-mlp-5 .dv-image {
+                        background-image: linear-gradient(to top, #000 0%, transparent 20%), url('https://m.media-amazon.com/images/G/01/digital/video/Magellan_MLP/PRIME_multi-benefit_MAGNET_2X._CB1519820207_._CR575,0,865,675_AC_.jpg');
+                }
+            }
+         
+            .dv-ms-su-mlp-6 {
+                background-color: #000;
+                    background-image: linear-gradient(to left, #000 40%, transparent 58%), url('https://images-na.ssl-images-amazon.com/images/G/01/digital/video/Magellan_MLP/MLP_Template_Image_Left._SY1200_FMJPG_.jpg');
+                background-position: left top;
+            }
+            .dv-ms-su-mlp-6 .dv-image {
+                background-image: none;
+            }
+                @media all and (max-width: 1024px)  and (orientation: portrait) {
+                    .dv-ms-su-mlp-6 {
+                        background-color: #000;
+                        background-image: none;
+                    }
+                    .dv-ms-su-mlp-6 .dv-image {
+                            background-image: linear-gradient(to top, #000 0%, transparent 20%), url('https://images-na.ssl-images-amazon.com/images/G/01/digital/video/Magellan_MLP/MLP_Template_Image_Left._CR0,0,865,675_AC_.jpg');
+                    }
+                }
+           
+                .dv-ms-su-mlp-7 {
+                    background-color: #fff !important;
+                }
+                .dv-ms-su-mlp-7 {
+                    color: black !important;
+                }
+           .dv-ms-su-mlp-8 {
+                    background-color: #000;
+                        background-image: linear-gradient(to right, #000 40%, transparent 58%), url('https://m.media-amazon.com/images/G/01/digital/video/Magellan_MLP/IN-kids-30Jan._CB1517304519_SY1200_FMJPG_.jpg');
+                    background-position: right top;
+                }
+                .dv-ms-su-mlp-8 .dv-image {
+                    background-image: none;
+                }
+                    @media all and (max-width: 1024px)  and (orientation: portrait) {
+                        .dv-ms-su-mlp-8 {
+                            background-color: #000;
+                            background-image: none;
+                        }
+                        .dv-ms-su-mlp-8 .dv-image {
+                                background-image: linear-gradient(to top, #000 0%, transparent 20%), url('https://m.media-amazon.com/images/G/01/digital/video/Magellan_MLP/IN-kids-30Jan._CB1517304519_._CR575,0,865,675_AC_.jpg');
+                        }
+                    }
+    
